@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@mipmap/b"
+        android:gravity="center_horizontal"
+        android:orientation="vertical">
+
+        <Button
+            android:id="@+id/btn_toplama"
+
+            android:layout_width="350dp"
+            android:layout_height="60dp"
+            android:layout_marginTop="130dp"
+            android:background="@drawable/buton"
+            android:drawableLeft="@mipmap/h"
+            android:paddingLeft="20dp"
+            android:shadowColor="#76FF03"
+            android:shadowDx="0"
+            android:shadowDy="0"
+            android:text="@string/top"
+            android:textColor="@android:color/background_light"
+            android:textSize="36sp" />
+
+        <Button
+            android:id="@+id/btn_cikarma"
+
+            android:layout_width="350dp"
+            android:layout_height="60dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/buton"
+            android:drawableLeft="@mipmap/c"
+            android:paddingLeft="20dp"
+            android:shadowColor="#CDDC39"
+            android:shadowDx="0"
+            android:shadowDy="0"
+            android:text="@string/cik"
+            android:textColor="@android:color/background_light"
+            android:textSize="36sp" />
+
+        <Button
+            android:id="@+id/btn_carpma"
+
+            android:layout_width="350dp"
+            android:layout_height="60dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/buton"
+            android:drawableLeft="@mipmap/ea"
+            android:paddingLeft="20dp"
+            android:shadowColor="#CDDC39"
+            android:shadowDx="0"
+            android:shadowDy="0"
+            android:text="@string/carp"
+            android:textColor="@android:color/background_light"
+            android:textSize="36sp" />
+
+        <Button
+            android:id="@+id/btn_bolme"
+
+            android:layout_width="350dp"
+            android:layout_height="60dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/buton"
+            android:drawableLeft="@mipmap/ab"
+            android:paddingLeft="20dp"
+            android:shadowColor="#CDDC39"
+            android:shadowDx="0"
+            android:shadowDy="0"
+            android:text="@string/bol"
+            android:textColor="@android:color/background_light"
+            android:textSize="36sp" />
+
+        <Button
+            android:id="@+id/btn_karisik"
+
+            android:layout_width="350dp"
+            android:layout_height="60dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/buton"
+            android:drawableLeft="@mipmap/ba"
+            android:paddingLeft="20dp"
+            android:shadowColor="#CDDC39"
+            android:shadowDx="0"
+            android:shadowDy="0"
+            android:text="@string/kar"
+            android:textColor="@android:color/background_light"
+            android:textSize="36sp" />
+
+        <Button
+            android:id="@+id/btn_ayarlar"
+
+            android:layout_width="350dp"
+            android:layout_height="60dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/buton"
+            android:drawableLeft="@mipmap/brain"
+            android:paddingLeft="20dp"
+            android:shadowColor="#CDDC39"
+            android:shadowDx="0"
+            android:shadowDy="0"
+            android:text="@string/master"
+            android:textColor="@android:color/background_light"
+            android:textSize="36sp" />
+    </LinearLayout>
+</android.support.constraint.ConstraintLayout>

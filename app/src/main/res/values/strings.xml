@@ -1,0 +1,72 @@
+<resources>
+
+    <string name="app_name">Math Game for Kids</string>
+    <string name="top">Addıtıon</string>
+    <string name="cik">Subtractıon</string>
+    <string name="carp">Multıplıcatıon</string>
+    <string name="bol">Dıvısıon</string>
+    <string name="kar">Mıxed</string>
+    <string name="kol">Easy</string>
+    <string name="ort">Medium</string>
+    <string name="zo">Hard</string>
+    <string name="ayar">Settings</string>
+    <string name="skorlar">Score:</string>
+    <string name="zaman">Time:</string>
+    <string name="hata">Mistake:</string>
+    <string name="tebrik">Congratulations</string>
+    <string name="skor">Score:</string>
+    <string name="s">Score</string>
+    <string name="oyna">Play Again</string>
+    <string name="cikis">Exit</string>
+    <string name="puan">Rate Us</string>
+    <string name="paylas">Share</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Strings related to Settings -->
+
+    <!-- Example General settings -->
+    <string name="pref_header_general">General</string>
+
+    <string name="pref_title_social_recommendations">Enable social recommendations</string>
+    <string name="pref_description_social_recommendations">Recommendations for people to contact
+        based on your message history
+    </string>
+
+    <string name="pref_title_display_name">Display name</string>
+    <string name="pref_default_display_name">John Smith</string>
+
+    <string name="pref_title_add_friends_to_messages">Add friends to messages</string>
+
+
+    <!-- Example settings for Data & Sync -->
+    <string name="pref_header_data_sync">Data &amp; sync</string>
+
+    <string name="pref_title_sync_frequency">Sync frequency</string>
+
+
+    <string-array name="multi_select_list_preference_default_value" />
+
+    <string name="pref_title_system_sync_settings">System sync settings</string>
+
+    <!-- Example settings for Notifications -->
+    <string name="pref_header_notifications">Notifications</string>
+
+    <string name="pref_title_new_message_notifications">New message notifications</string>
+
+    <string name="pref_title_ringtone">Ringtone</string>
+    <string name="pref_ringtone_silent">Silent</string>
+
+    <string name="pref_title_vibrate">Vibrate</string>
+    <string name="ses">Sound</string>
+    <string name="acik">Sound Open</string>
+    <string name="kapalı">Sound Close</string>
+    <string name="sesac">Butona Dokunulduğunda Ses Kapansın mı?</string>
+    <string name="master">Master Degree</string>
+    <string name="karisikmaster">Mix</string>
+    <string name="mind">Mind Game</string>
+    <string name="soru">Do You Want to Exit Game?</string>
+    <string name="ci">Exit</string>
+    <string name="hayir">No</string>
+    <string name="evet">Yes</string>
+    <string name="doldu">Time is Out!</string>
+</resources>

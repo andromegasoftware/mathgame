@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.kadir.matematikoyunu.giris">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@mipmap/b"
+        android:gravity="center_horizontal"
+        android:orientation="vertical">
+
+        <Button
+            android:id="@+id/btn_toplama"
+
+            android:layout_width="250dp"
+            android:layout_height="45dp"
+            android:layout_marginTop="90dp"
+            android:background="@drawable/buton"
+            android:drawableLeft="@mipmap/h"
+            android:paddingLeft="20dp"
+            android:shadowColor="#76FF03"
+            android:shadowDx="0"
+            android:shadowDy="0"
+            android:text="@string/top"
+            android:textColor="@android:color/background_light"
+            android:textSize="24sp" />
+
+        <Button
+            android:id="@+id/btn_cikarma"
+            android:layout_width="250dp"
+            android:layout_height="45dp"
+            android:layout_marginTop="15dp"
+            android:background="@drawable/buton"
+            android:drawableLeft="@mipmap/c"
+            android:paddingLeft="20dp"
+            android:shadowColor="#CDDC39"
+            android:shadowDx="0"
+            android:shadowDy="0"
+            android:text="@string/cik"
+            android:textColor="@android:color/background_light"
+            android:textSize="24sp" />
+
+        <Button
+            android:id="@+id/btn_carpma"
+
+            android:layout_width="250dp"
+            android:layout_height="45dp"
+            android:layout_marginTop="15dp"
+            android:background="@drawable/buton"
+            android:drawableLeft="@mipmap/ea"
+            android:paddingLeft="20dp"
+            android:shadowColor="#CDDC39"
+            android:shadowDx="0"
+            android:shadowDy="0"
+            android:text="@string/carp"
+            android:textColor="@android:color/background_light"
+            android:textSize="24sp" />
+
+        <Button
+            android:id="@+id/btn_bolme"
+
+            android:layout_width="250dp"
+            android:layout_height="45dp"
+            android:layout_marginTop="15dp"
+            android:background="@drawable/buton"
+            android:drawableLeft="@mipmap/ab"
+            android:paddingLeft="20dp"
+            android:shadowColor="#CDDC39"
+            android:shadowDx="0"
+            android:shadowDy="0"
+            android:text="@string/bol"
+            android:textColor="@android:color/background_light"
+            android:textSize="24sp" />
+
+        <Button
+            android:id="@+id/btn_karisik"
+
+            android:layout_width="250dp"
+            android:layout_height="45dp"
+            android:layout_marginTop="15dp"
+            android:background="@drawable/buton"
+            android:drawableLeft="@mipmap/ba"
+            android:paddingLeft="20dp"
+            android:shadowColor="#CDDC39"
+            android:shadowDx="0"
+            android:shadowDy="0"
+            android:text="@string/kar"
+            android:textColor="@android:color/background_light"
+            android:textSize="24sp" />
+
+        <Button
+            android:id="@+id/btn_ayarlar"
+
+            android:layout_width="250dp"
+            android:layout_height="45dp"
+            android:layout_marginTop="15dp"
+            android:background="@drawable/buton"
+            android:drawableLeft="@mipmap/brain"
+            android:paddingLeft="20dp"
+            android:shadowColor="#CDDC39"
+            android:shadowDx="0"
+            android:shadowDy="0"
+            android:text="@string/master"
+            android:textColor="@android:color/background_light"
+            android:textSize="24sp" />
+    </LinearLayout>
+</android.support.constraint.ConstraintLayout>

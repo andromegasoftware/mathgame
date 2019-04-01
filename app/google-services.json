@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "267543104113",
+    "firebase_url": "https://matematik-oyunu-9f20d.firebaseio.com",
+    "project_id": "matematik-oyunu-9f20d",
+    "storage_bucket": "matematik-oyunu-9f20d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:267543104113:android:1e5284d97c3dbf1c",
+        "android_client_info": {
+          "package_name": "com.kadir.matematikoyunu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "267543104113-ojr7ml3f7bakq9e91ojn9fshkmtsi5fr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kadir.matematikoyunu",
+            "certificate_hash": "27c0eafc8df0b629e4c408213a7b0252471a72e9"
+          }
+        },
+        {
+          "client_id": "267543104113-d60adm5re3ll7ldfloi1qqvsrhorcr5k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsgb18i0LDDRdD7HsTQFWdvnWkvzAUMoY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "267543104113-d60adm5re3ll7ldfloi1qqvsrhorcr5k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
